@@ -105,27 +105,6 @@ Valid IP
 
 ---
 
-## 🔮 Future Improvements
-
-* Add support for identifying whether the IP is IPv4 or IPv6.
-* Validate multiple IP addresses from a file.
-* Build a graphical user interface (GUI).
-* Add unit tests for automated validation.
-
----
-
-## 🤝 Contributing
-
-Contributions, suggestions, and improvements are welcome. Feel free to fork this repository and submit a pull request.
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License.
-
----
-
 ## 👨‍💻 Author
 
 **Alex**
